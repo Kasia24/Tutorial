@@ -537,6 +537,7 @@ img{
     border: none; 
     border-radius: 4px;
     gap: 16px;
+    height: 40px;
 }
 .icon-send{
     margin-left: 16px;
