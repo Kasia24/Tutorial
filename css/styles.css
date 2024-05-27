@@ -486,7 +486,7 @@ img{
     
 }
 .form-style{
-
+     gap: 24px;
 }
 .sub-style{
     margin-bottom: 16px; 
