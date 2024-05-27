@@ -520,6 +520,7 @@ img{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); 
     border-radius: 4px; 
     color: #ffffff; 
+    height: 40px;
 }
 .btn{
     min-width: 165px;
