@@ -501,6 +501,7 @@ img{
 }
 .form{
     display: flex;
+    gap: 24px;
 }
 .label{
     gap: 24px;
