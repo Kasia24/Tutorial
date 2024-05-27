@@ -478,7 +478,6 @@ img{
     justify-content: space-between;
     gap: 120px;
     width: 208px;
-    height: 80px;
     top: 3256px;
     left: 540px;
 }
@@ -487,7 +486,6 @@ img{
     align-items: center;
     justify-content: space-between;
     width: 453px;
-    height: 80px;
     top: 100px;
     left: 828px;
     gap: 80px;
@@ -513,7 +511,6 @@ img{
     
 .input{ 
     width: 264px;
-    height: 40px; 
     border: 1px solid #ffffff; 
     background-color: transparent; 
     font-size: 12px;
