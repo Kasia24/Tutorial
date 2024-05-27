@@ -486,10 +486,15 @@ img{
     
 }
 .form-style{
-     gap: 120px;
-     display: block;
-     align-items: center;
-     justify-content: space-between;
+    width: 453px;
+    height: 80px;
+    top: 100px;
+    left: 828px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
 }
 .sub-style{
     margin-bottom: 16px; 
