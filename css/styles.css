@@ -486,9 +486,9 @@ img{
     
 }
 .form-style{
-    display: block;
-    align-items: center;
-    justify-content: space-between;
+    &display: block;
+    &align-items: center;
+    &justify-content: space-between;
     width: 453px;
     height: 80px;
     top: 100px;
