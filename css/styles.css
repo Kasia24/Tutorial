@@ -482,9 +482,6 @@ img{
     top: 3256px;
     left: 540px;
 }
-.link-active::after{
-    color: 
-}
 .form-style{
     display: block;
     align-items: center;
