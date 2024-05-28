@@ -536,6 +536,15 @@ img{
     letter-spacing: 0.02em;
     text-align: center;
 }
+.icon-close{
+    width: 24px;
+    height: 24px;
+    top: 104px;
+    left: 876px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
 .btn{
     min-width: 165px;
     display: flex;
