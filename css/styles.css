@@ -523,7 +523,7 @@ img{
     color: #ffffff; 
     height: 40px;
 }
-::placeholder{
+input::placeholder{
     color:  #ffffff; 
 }
 .text{
