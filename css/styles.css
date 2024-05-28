@@ -528,7 +528,7 @@ img{
 }
 .text{
     margin: 0;
-    
+    width: 360px;
 }
 .btn{
     min-width: 165px;
