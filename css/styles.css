@@ -523,6 +523,9 @@ img{
     color: #ffffff; 
     height: 40px;
 }
+::placeholder{
+    color:  #ffffff; 
+}
 .btn{
     min-width: 165px;
     display: flex;
@@ -544,7 +547,7 @@ img{
 .icon-send{
     margin-left: 16px;
 }
-.modal{
+.backdrop{
     position: fixed;
     top: 0;
     left: 0;
