@@ -580,8 +580,8 @@ input::placeholder{
 }
 .modal{
     position: absolute;
-    top: 80px;
-    left: 516px;
+    top: 0;
+    left: 0;
     transform: translate(-50%, -50%); 
     width: 408px;
     min-height: 584px;
