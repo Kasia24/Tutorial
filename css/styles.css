@@ -646,4 +646,5 @@ input::placeholder{
     color: #FFFFFF;
     width: 169px;
     height: 56px;
+    gap: 10px;
 }
