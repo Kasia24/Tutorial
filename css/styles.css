@@ -590,3 +590,26 @@ input::placeholder{
     border-radius: 4px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.modal.bnt{
+    width: 24px;
+    height: 24px;
+    top: 104px;
+    left: 876px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+.text{
+    width: 360px;
+    height: 24px;
+    top: 152px;
+    left: 540px;
+    gap: 0px;
+    opacity: 0px;
+   font-family: Roboto;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   letter-spacing: 0.02em;
+   text-align: center;
+}
