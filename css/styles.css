@@ -566,7 +566,7 @@ input::placeholder{
 .icon-send{
     margin-left: 16px;
 }
-.backdrop{
+.backdrop is-open{
     position: fixed;
     top: 0;
     left: 0;
