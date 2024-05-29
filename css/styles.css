@@ -614,3 +614,7 @@ input::placeholder{
    text-align: center;
    color: #2E2F42;
 }
+.form-label{
+    display: flex;
+    flex-direction: column;
+}
