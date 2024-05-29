@@ -626,3 +626,11 @@ input::placeholder{
 .input-style{
 
 }
+.icon-form{
+    width: 18px;
+    height: 24px;
+    top: 92px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
+}
