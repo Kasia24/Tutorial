@@ -620,7 +620,8 @@ input::placeholder{
     color: #8E8F99;
     size: 12px;
     line-height: 14px;
-    
+    letter-spacing: 4%;
+
 }
 .input-style{
 
