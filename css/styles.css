@@ -617,4 +617,9 @@ input::placeholder{
 .form-label{
     display: flex;
     flex-direction: column;
+    color: #8E8F99;
+    size: 12px;
+}
+.input-style{
+
 }
