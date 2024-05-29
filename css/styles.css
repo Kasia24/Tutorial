@@ -547,7 +547,7 @@ input::placeholder{
 }
 .btn{
     width: 165px;
-    display: flex;
+    display: block;
     justify-content: center; 
     align-items: center;
     font-family: "Roboto", sans-serif;
