@@ -482,7 +482,7 @@ img{
     left: 540px;
 }
 .form-style{
-    display: block;
+    display: inline;
     align-items: center;
     justify-content: space-between;
     width: 453px;
