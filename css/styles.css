@@ -644,4 +644,6 @@ input::placeholder{
     justify-content: center;
     background-color: #4D5AE5;
     color: #FFFFFF;
+    width: 169px;
+    height: 56px;
 }
