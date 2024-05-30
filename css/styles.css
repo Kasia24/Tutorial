@@ -509,6 +509,7 @@ img{
 }
 .label-style{
     gap: 24px;
+    display:flex;
 }
     
 .input{ 
