@@ -676,6 +676,9 @@ input::placeholder{
 .form.div{
     margin-bottom: 8px; 
 }
+.form-div-two{
+    margin-bottom: 24px; 
+}
 .form-second{
     position: relative; 
 }
