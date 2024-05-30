@@ -399,6 +399,12 @@ img{
 .footer{
     margin-right: 120px;
 }
+.footer-style{
+    width: 1440px;
+    height: 312px;
+    gap: 0px;
+    opacity: 0px;
+}
 .icon.list{
     list-style-type: none;
     margin: 0;
