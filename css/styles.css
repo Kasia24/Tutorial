@@ -670,7 +670,7 @@ input::placeholder{
     gap: 0px;
     opacity: 0px;
 }
-.form{
+.formal{
     display: flex;
     flex-direction: column;
     justify-content: center;
