@@ -667,6 +667,7 @@ input::placeholder{
 .form{
     display: flex;
     flex-direction: column;
+    text-align: center;
     width: 360px;
     height: 336px;
     top: 192px;
