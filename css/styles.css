@@ -482,7 +482,7 @@ img{
     left: 540px;
 }
 .form-style{
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     width: 453px;
@@ -493,6 +493,7 @@ img{
     border: 1px 0px 0px 0px;
     opacity: 0px;
     height: 80px;
+    flex-direction: row;
 }
 .sub-style{
     margin-bottom: 16px; 
