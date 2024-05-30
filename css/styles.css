@@ -667,6 +667,13 @@ input::placeholder{
 .form{
     display: flex;
     flex-direction: column;
+    width: 360px;
+    height: 336px;
+    top: 192px;
+    left: 540px;
+    gap: 8px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
 }
 .send-btn{
     display: flex;
