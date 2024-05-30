@@ -688,6 +688,8 @@ input::placeholder{
     width: 169px;
     height: 56px;
     gap: 10px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 .text-first{
     padding: 72px 24px 24px 24px;
