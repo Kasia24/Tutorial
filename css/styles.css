@@ -488,12 +488,11 @@ img{
     width: 453px;
     top: 100px;
     left: 828px;
-    gap: 24px;
+    gap: 80px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
     height: 80px;
-    flex-direction: column;
 }
 .sub-style{
     margin-bottom: 16px; 
