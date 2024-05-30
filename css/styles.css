@@ -560,7 +560,8 @@ input::placeholder{
     border-radius: 4px;
     gap: 16px;
     height: 40px;
-    min-width: 165px; 
+    min-width: 165px;
+    width: 165px;
 }
 .icon-send{
     margin-left: 16px;
