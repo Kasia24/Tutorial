@@ -628,13 +628,12 @@ input::placeholder{
     text-align: center;
 }
 .form-label{
-    display: flex;
-    flex-direction: column;
-    color: #8E8F99;
-    size: 12px;
-    line-height: 14px;
-    letter-spacing: 4%;
-
+    font-size: 12px; 
+    line-height: 1.17; 
+    letter-spacing: 0.04em;
+    display: block;
+    color: #8e8f99;
+    margin-bottom: 4px;
 }
 .input-style{
 
