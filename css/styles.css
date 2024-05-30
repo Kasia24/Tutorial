@@ -666,3 +666,6 @@ input::placeholder{
 .form.div{
     margin-bottom: 8px; 
 }
+.form-second{
+    position: relative; 
+}
