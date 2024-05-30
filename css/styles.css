@@ -482,17 +482,16 @@ img{
     left: 540px;
 }
 .form-style{
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-between;
     width: 453px;
+    gap: 80px;
     top: 100px;
     left: 828px;
-    gap: 80px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
-    height: 80px;
 }
 .sub-style{
     margin-bottom: 16px; 
