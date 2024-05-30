@@ -621,6 +621,9 @@ input::placeholder{
 .icon-close:hover{
     fill: #ffffff
 }
+.icon-close:focus{
+    fill: #ffffff
+}
 
 .text-second{
     margin-bottom: 16px; 
