@@ -512,7 +512,7 @@ img{
     display: flex;
 }
 .form{
-    display: block;
+    display: inline-block;
     gap: 24px;
 }
 .label-style{
