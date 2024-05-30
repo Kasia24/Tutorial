@@ -618,19 +618,12 @@ input::placeholder{
     border: none; 
 }
 .text-second{
-    width: 360px;
-    height: 24px;
-    top: 152px;
-    left: 540px;
-    gap: 0px;
-    opacity: 0px;
-   font-family: Roboto;
-   font-size: 16px;
-   font-weight: 500;
-   line-height: 24px;
-   letter-spacing: 0.02em;
-   text-align: center;
-   color: #2E2F42;
+    font-weight: 500; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 .form-label{
     display: flex;
