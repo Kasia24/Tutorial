@@ -750,6 +750,12 @@ input::placeholder{
 }
 textarea::placeholder{
     color: #2E2F42;
+   font-family: Roboto;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 14px;
+   letter-spacing: 0.04em;
+   text-align: left;
 }
 .span-style{
     width: 16px;
