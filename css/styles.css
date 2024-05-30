@@ -748,7 +748,7 @@ input::placeholder{
     letter-spacing: 0.04em; 
     color: #8e8f99;
 }
-.textarea::placeholder{
+textarea::placeholder{
     color: #2E2F42;
 }
 .span-style{
