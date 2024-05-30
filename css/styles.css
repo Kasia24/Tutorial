@@ -618,6 +618,10 @@ input::placeholder{
     background-color: #404bbf;
     border: none; 
 }
+.icon-close:hover{
+    fill: #ffffff
+}
+
 .text-second{
     margin-bottom: 16px; 
     color: #2E2F42;
