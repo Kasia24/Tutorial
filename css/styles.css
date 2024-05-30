@@ -502,6 +502,7 @@ img{
     letter-spacing: 0.02em;
     color: #ffffff;
     gap: 80px;
+    display: flex;
 }
 .form{
     display: flex;
