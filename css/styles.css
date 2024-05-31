@@ -683,9 +683,7 @@ input::placeholder{
 .text-first{
     padding: 72px 24px 24px 24px;
 }
-.form-div-two{
-    gap: 16px;
-}
+
 .form-second{
     position: relative; 
 }
