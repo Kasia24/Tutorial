@@ -652,7 +652,7 @@ input::placeholder{
 .input-style:focus{
     border-color: #4D5AE5; 
 }
-.input-style:focus .person-black{
+.person-black .input-style:focus{
     fill: #4D5AE5; 
 }
 .icon-form{
