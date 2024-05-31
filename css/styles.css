@@ -750,3 +750,6 @@ textarea::placeholder{
 .link-footer{
     color: #4d5ae5; 
 }
+.form-div-two{
+    gap: 8px;
+}
