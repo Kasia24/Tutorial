@@ -630,6 +630,7 @@ input::placeholder{
     letter-spacing: 0.02em;
     top: 152px;
     left: 540px;
+    text-align: center;
 }
 .form-label{
     font-size: 12px; 
