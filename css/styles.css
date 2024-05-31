@@ -687,7 +687,6 @@ input::placeholder{
 .send-btn{
     display: block;
     min-width: 169px;
-    height: 56px;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
