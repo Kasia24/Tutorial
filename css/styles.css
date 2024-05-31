@@ -663,7 +663,7 @@ input::placeholder{
     justify-content: center;
     top: 192px;
     left: 540px;
-    gap: 24px;
+    gap: 8px;
     border-radius: 4px 0px 0px 0px;
 }
 .send-btn{
