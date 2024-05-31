@@ -672,6 +672,7 @@ input::placeholder{
 }
 .formal-one{
     display: flex;
+    flex-direction: column;
 }
 .send-btn{
     display: block;
