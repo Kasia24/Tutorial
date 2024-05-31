@@ -759,6 +759,7 @@ textarea::placeholder{
 .form-div-two{
     gap: 8px;
     display: block;
+    margin-bottom: 24px;
 }
 .form-div{
     margin-bottom: 8px;
