@@ -567,7 +567,6 @@ input::placeholder{
     border: none; 
     border-radius: 4px;
     gap: 16px;
-    height: 40px;
     min-width: 165px;
     width: 165px;
 }
@@ -604,7 +603,6 @@ input::placeholder{
     top: 24px;
     right: 24px;
     width: 24px;
-    height: 24px;
     border-radius: 50%; 
     display: flex;
     align-items: center;
