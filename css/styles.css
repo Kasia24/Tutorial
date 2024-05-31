@@ -771,7 +771,7 @@ textarea::placeholder{
     margin-bottom: 16px;
 }
   
-input:checked{
+.checkbox:checked{
     background-color: #404bbf;
     border: none; 
     fill:  #F4F4FD;
