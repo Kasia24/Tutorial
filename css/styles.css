@@ -612,10 +612,10 @@ input::placeholder{
     background-color: #404bbf;
     border: none; 
 }
-.icon-close:hover{
+.modal-btn:hover{
     fill: #ffffff;
 }
-.icon-close:focus{
+.modal-btn:focus{
     fill: #ffffff;
 }
 
