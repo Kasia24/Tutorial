@@ -752,4 +752,5 @@ textarea::placeholder{
 }
 .form-div-two{
     gap: 8px;
+    display: block;
 }
