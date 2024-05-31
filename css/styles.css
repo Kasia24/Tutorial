@@ -652,6 +652,9 @@ input::placeholder{
 .input-style:focus{
     border-color: #4D5AE5; 
 }
+.input-style:focus .person-black{
+    fill: #4D5AE5; 
+}
 .icon-form{
     width: 18px;
     height: 24px;
