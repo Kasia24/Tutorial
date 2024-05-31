@@ -586,6 +586,7 @@ input::placeholder{
     padding: 72px 24px 24px 24px;
     border-radius: 4px;
     width: 408px; 
+    min-height: 584px;
 }
 .modal-btn{
     position: absolute;
