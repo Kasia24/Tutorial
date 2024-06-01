@@ -649,10 +649,10 @@ input::placeholder{
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     height: 40px; 
 }
-.input-style:focus{
+input:focus{
     border-color: #4D5AE5; 
 }
-.person-black .input-style:focus{
+.input-style:focus{
     fill: #4D5AE5; 
 }
 .icon-form{
