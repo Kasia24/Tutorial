@@ -765,8 +765,7 @@ textarea::placeholder{
     display: inline-flex; 
     align-items: center; 
     justify-content: center; 
-    fill: transparent;
-    padding-right: 8px; 
+    fill: transparent; 
 }
 .link-footer{
     color: #4d5ae5; 
@@ -790,4 +789,7 @@ textarea::placeholder{
 }
 .form-second:focus-within{
     fill: #4D5AE5; 
+}
+.checkbox{
+    padding-right: 8px;
 }
