@@ -745,7 +745,6 @@ input:focus{
     line-height: 1.17; 
     letter-spacing: 0.04em; 
     color: #8e8f99;
-    gap: 8px;
     display: inline;
 }
 textarea::placeholder{
@@ -766,7 +765,8 @@ textarea::placeholder{
     display: inline-flex; 
     align-items: center; 
     justify-content: center; 
-    fill: transparent; 
+    fill: transparent;
+    padding-right: 8px; 
 }
 .link-footer{
     color: #4d5ae5; 
