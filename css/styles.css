@@ -788,3 +788,6 @@ textarea::placeholder{
     border: none; 
     fill:  #F4F4FD;
 }
+.form-second:focus-within{
+    fill: #4D5AE5; 
+}
