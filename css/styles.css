@@ -774,6 +774,7 @@ textarea::placeholder{
     gap: 8px;
     display: block;
     margin-bottom: 24px;
+    margin-right: 8px;
 }
 .form-div{
     margin-bottom: 8px;
