@@ -793,3 +793,6 @@ textarea::placeholder{
 .checkbox{
     padding-right: 8px;
 }
+.checkbox-input{
+    margin-right: 8px;
+}
