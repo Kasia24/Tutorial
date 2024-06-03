@@ -771,7 +771,6 @@ textarea::placeholder{
     color: #4d5ae5; 
 }
 .form-div-two{
-    gap: 8px;
     display: block;
     margin-bottom: 24px;
     margin-right: 8px;
